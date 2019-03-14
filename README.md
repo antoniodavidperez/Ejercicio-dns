@@ -4,7 +4,7 @@ Creamos el raid 0 para el servidor dns.
 ![raid0_servidordns.PNG](./raid0_servidordns.PNG)
 
 Creamos el raid 5 para el servidor web y ftp.
-![raid0_servidordns2.PNG](./raid0_servidordns2.PNG)
+![raid5_servidorwebyftp.PNG](./raid5_servidorwebyftp.PNG)
 
 ## Creación del servidor DNS
 Declarar las zonas de los sitios.
