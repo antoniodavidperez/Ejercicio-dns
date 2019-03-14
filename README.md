@@ -14,10 +14,9 @@ Configurar los servidores DNS a los que va a acudir nuestro servidor en el caso 
 ![named.conf.options.PNG](./named.conf.options.PNG)
 
 Crear las zonas directas de cada sitio donde se relacionan las IP con los nombres.
-![rd.gato.com.PNG](./rd.gato.com.PNG)
-![rd.mosquito.com.PNG](./rd.mosquito.com.PNG)
-![rd.escherichiacoli.es.PNG](./rd.escherichiacoli.es.PNG)
-![rd.chip555.org.PNG](./rd.chip555.org.PNG)
+![rd.sitioa.com.PNG](./rd.sitioa.com.PNG)
+![rd.sitiob.net.PNG](./rd.sitiob.net.PNG)
+![rd.sitioc.net.PNG](./rd.sitioc.net.PNG)
 
 Crear la zona inversa donde se relacionan los nombres con las IP.
 ![ri.10.PNG](./ri.10.PNG)
