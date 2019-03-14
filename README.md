@@ -29,6 +29,6 @@ Comprobación de los host por el terminar de un cliente.
 ![comprobacionHost.PNG](./comprobacionHost.PNG)
 
 Comprobación de los host en el navegador del cliente.
-![navegadorSitioa.PNG](./navegadoraSitioa.PNG)
-![navegadorSitiob.PNG](./navegadoraSitiob.PNG)
-![navegadorSitioc.PNG](./navegadoraSitioc.PNG)
+![navegadorSitioa.PNG](./navegadorSitioa.PNG)
+![navegadorSitiob.PNG](./navegadorSitiob.PNG)
+![navegadorSitioc.PNG](./navegadorSitioc.PNG)
